@@ -1,0 +1,1 @@
+# ManejoJSON_Clima
